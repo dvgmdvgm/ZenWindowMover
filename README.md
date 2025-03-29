@@ -1,7 +1,11 @@
 # ZenWindowMover
 
 **ZenWindowMover** is a convenient extension for ZenBrowser that allows you to move the browser window by dragging any header element, a manually specified class, or the top 50 pixels of the webpage. This feature is inspired by the **"Allow window dragging from the top of webpages"** feature of the ARC browser, significantly enhancing browser usability.
+---
 
+## Demo (Clickable preview to YouTube video example)
+
+[![Watch the video](https://img.youtube.com/vi/R8LKdQqqFpE/maxresdefault.jpg)](https://www.youtube.com/watch?v=R8LKdQqqFpE)
 ---
 
 ## Functionality
