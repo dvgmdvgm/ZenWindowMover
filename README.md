@@ -4,6 +4,14 @@
 
 ---
 
+## Functionality
+
+- **Window Dragging:** Move the browser window by dragging any specified area (header, class, or top 50px).  
+- **Double Click for Fullscreen:** Double-click the top part of the website to maximize the window. Double-click again to restore the windowed mode.  
+- **Snap to Top for Fullscreen:** Move the window to the top edge of the screen to maximize it. Pull the window down if it is already maximized to restore the windowed mode.  
+
+---
+
 ## How It Works
 
 ZenWindowMover works by combining two components:
@@ -32,6 +40,7 @@ ZenWindowMover works by combining two components:
 
 3. **Start the server**:
    - Run **ZenWindowMover.exe** (requires .NET Framework version 4.6 or higher).
+
 ---
 
 ## Configuration
@@ -39,10 +48,10 @@ ZenWindowMover works by combining two components:
 - To enable window dragging by a specific class name:
   1. Create a text file in the **movable** folder.
   2. Write the class name inside the file.
-  3. Rename the file to **domainexample.com.txt**.
+  3. Rename the file to **domainToWork.txt**.
   4. Restart the server and the browser.
 
-- If the **domainexample.com.txt** file does not exist, the extension will try to find a default header to make it movable.  
+- If the **domainToWork.txt** file does not exist, the extension will try to find a default header to make it movable.  
 - If no header is found, the extension will make the top 50 pixels of the webpage movable.
 
 ---
