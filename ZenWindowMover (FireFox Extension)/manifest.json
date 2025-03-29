@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Zen Window Mover",
+  "version": "2.15",
+  "description": "Move browser window by dragging the header or specified elements.",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "ws://127.0.0.1:8080/"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}

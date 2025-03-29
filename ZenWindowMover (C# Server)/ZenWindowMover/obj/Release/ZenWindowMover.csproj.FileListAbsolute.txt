@@ -1,0 +1,13 @@
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\bin\Release\ZenWindowMover.exe.config
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\bin\Release\ZenWindowMover.exe
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\bin\Release\ZenWindowMover.pdb
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\obj\Release\ZenWindowMover.csproj.AssemblyReference.cache
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\obj\Release\ZenWindowMover.Properties.Resources.resources
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\obj\Release\ZenWindowMover.csproj.GenerateResource.cache
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\obj\Release\ZenWindowMover.csproj.CoreCompileInputs.cache
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\obj\Release\ZenWindowMover.exe
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\obj\Release\ZenWindowMover.pdb
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\obj\Release\ZenWindowMover.csproj.CopyComplete
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\bin\Release\websocket-sharp.dll
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\bin\Release\websocket-sharp.xml
+C:\Users\nikas\source\repos\ZenWindowMover\ZenWindowMover\obj\Release\ZenWindowMover.ZenWindowMover.resources
