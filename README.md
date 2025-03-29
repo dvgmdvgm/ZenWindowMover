@@ -52,10 +52,10 @@ ZenWindowMover works by combining two components:
 - To enable window dragging by a specific class name:
   1. Create a text file in the **movable** folder.
   2. Write the class name inside the file.
-  3. Rename the file to **domainToWork.txt**.
+  3. Rename the file to **domainexample.com.txt**.
   4. Restart the server and the browser.
 
-- If the **domainToWork.txt** file does not exist, the extension will try to find a default header to make it movable.  
+- If the **domainexample.com.txt** file does not exist, the extension will try to find a default header to make it movable.  
 - If no header is found, the extension will make the top 50 pixels of the webpage movable.
 
 ---
