@@ -20,16 +20,18 @@ ZenWindowMover works by combining two components:
 
 ## Installation
 
-1. **Install the extension**:
+1. **Download the latest release**:
+   - Go to the [Releases page](https://github.com/dvgmdvgm/ZenWindowMover/releases) and download the latest version.
+
+2. **Install the extension**:
    - Open ZenBrowser and navigate to:  
      ```
      about:debugging#/runtime/this-firefox
      ```
    - Click **"Load Temporary Add-on"** and select the **manifest.json** file from the **ZenWindowMover (FireFox Extension)** folder.
 
-2. **Start the server**:
+3. **Start the server**:
    - Run **ZenWindowMover.exe** (requires .NET Framework version 4.6 or higher).
-
 ---
 
 ## Configuration
